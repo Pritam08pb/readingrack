@@ -1,2 +1,2 @@
-# readingrack
+# "ReadingRack: The Digital Library Hub"
  
